@@ -1,2 +1,0 @@
-# ReactInitial
-Created with CodeSandbox
